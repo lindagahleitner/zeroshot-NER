@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/zero-shot-ner-comparison.git
 cd zero-shot-ner-comparison
 
 # Install dependencies
-pip install -r requirements.txt
+pip install datasets transformers scikit-learn gliner gliner-spacy openai
 
 # Run experiments
-python run_experiment.py --model gpt --dataset conll2003
+jupyter notebook "Zero-shot Named Entity Recognition (NER)_CoNLL_final.ipynb"
