@@ -24,7 +24,7 @@ This project implements a standardized and reproducible pipeline to compare mode
 
 | Dataset       | Domain                  | Entity Types | Tagging Scheme |
 |---------------|--------------------------|---------------|-----------------|
-| CoNLL 2003    | News articles (Reuters)  | 4             | BIO             |
+| CoNLL 2003    | News articles            | 4             | BIO             |
 | WNUT 2017     | Social media posts       | 6             | BIO             |
 | OntoNotes 5.0 | News, blogs, dialogue    | 18            | BIO             |
 
